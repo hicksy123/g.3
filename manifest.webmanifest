@@ -1,0 +1,12 @@
+{
+  "name": "G-Project Training Log",
+  "short_name": "G-Project",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#02040a",
+  "theme_color": "#02040a",
+  "icons": [
+    { "src": "/g-project-splash.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
